@@ -1,9 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T15:34:50.848Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" version="21.2.8" etag="au55ECuHH4kVmEozfnON" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T16:29:25.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="d6wj37rniqreXpbxGPPU" version="21.2.8" type="github">
   <diagram name="Página-1" id="7h6cBQRnGxcIhX4PBxPF">
-    <mxGraphModel>
+    <mxGraphModel dx="1076" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dVHdGWv33wKlvnYTyZtb-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15" y="-1160" width="940" height="850" as="geometry" />
+        </mxCell>
+        <mxCell id="dVHdGWv33wKlvnYTyZtb-24" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;Sitios &lt;font style=&quot;font-size: 27px;&quot;&gt;Web &lt;/font&gt;301122&lt;/font&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; EDWARD ANDRES CONVERS RODRIGUEZ&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;Código: 80167682" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;" vertex="1" parent="1">
+          <mxGeometry x="115" y="-1150" width="770" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dVHdGWv33wKlvnYTyZtb-25" value="INICIO" style="html=1;shadow=0;dashed=0;fillColor=#343A40;strokeColor=none;fontSize=16;fontColor=#ffffff;align=left;spacing=15;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-1040" width="800" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dVHdGWv33wKlvnYTyZtb-26" value="TEMA SELECCIONADO" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#ffffff;align=center;" vertex="1" parent="dVHdGWv33wKlvnYTyZtb-25">
+          <mxGeometry width="180" height="40" relative="1" as="geometry">
+            <mxPoint x="170" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dVHdGWv33wKlvnYTyZtb-28" value="MOCKUP" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;spacingRight=0;noLabel=0;" vertex="1" parent="dVHdGWv33wKlvnYTyZtb-25">
+          <mxGeometry width="80" height="40" relative="1" as="geometry">
+            <mxPoint x="440" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dVHdGWv33wKlvnYTyZtb-29" value="ABOUT" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;" vertex="1" parent="dVHdGWv33wKlvnYTyZtb-25">
+          <mxGeometry width="80" height="40" relative="1" as="geometry">
+            <mxPoint x="630" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dVHdGWv33wKlvnYTyZtb-38" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Card title&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;&lt;br style=&quot;font-size: 14px&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=bottom;align=left;spacing=20;spacingBottom=50;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="115" y="-960" width="250" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="dVHdGWv33wKlvnYTyZtb-39" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="dVHdGWv33wKlvnYTyZtb-38">
+          <mxGeometry width="250" height="180" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dVHdGWv33wKlvnYTyZtb-40" value="Go somewhere" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#0085FC;strokeColor=none;fontColor=#ffffff;resizeWidth=1;fontSize=14;" vertex="1" parent="dVHdGWv33wKlvnYTyZtb-38">
+          <mxGeometry y="1" width="120" height="40" relative="1" as="geometry">
+            <mxPoint x="20" y="-60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dVHdGWv33wKlvnYTyZtb-41" value="Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=bottom;align=left;spacing=20;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="375" y="-960" width="250" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="dVHdGWv33wKlvnYTyZtb-42" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="dVHdGWv33wKlvnYTyZtb-41">
+          <mxGeometry width="250" height="180" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dVHdGWv33wKlvnYTyZtb-43" value="Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=bottom;align=left;spacing=20;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-960" width="250" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="dVHdGWv33wKlvnYTyZtb-44" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="dVHdGWv33wKlvnYTyZtb-43">
+          <mxGeometry width="250" height="180" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dVHdGWv33wKlvnYTyZtb-45" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="75" y="-460" width="850" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="dVHdGWv33wKlvnYTyZtb-47" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;EDWARD ANDRES CONVERS&lt;br&gt;2023&lt;br&gt;&lt;br&gt;04/05/2023&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="perimeter=none;html=1;whiteSpace=wrap;fillColor=none;strokeColor=none;resizeWidth=1;verticalAlign=top;align=left;spacing=20;spacingTop=-10;fontSize=14;" vertex="1" parent="dVHdGWv33wKlvnYTyZtb-45">
+          <mxGeometry width="800" height="120" relative="1" as="geometry">
+            <mxPoint y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dVHdGWv33wKlvnYTyZtb-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="dVHdGWv33wKlvnYTyZtb-26" target="dVHdGWv33wKlvnYTyZtb-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dVHdGWv33wKlvnYTyZtb-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dVHdGWv33wKlvnYTyZtb-28" target="dVHdGWv33wKlvnYTyZtb-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
