@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-04T16:29:25.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="d6wj37rniqreXpbxGPPU" version="21.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-04T16:36:43.565Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.68" etag="F8Mk-cIzRuIi8pO-0JWp" version="21.2.8" type="github">
   <diagram name="Página-1" id="7h6cBQRnGxcIhX4PBxPF">
     <mxGraphModel dx="1076" dy="1796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,19 +34,14 @@
         <mxCell id="dVHdGWv33wKlvnYTyZtb-39" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="dVHdGWv33wKlvnYTyZtb-38">
           <mxGeometry width="250" height="180" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dVHdGWv33wKlvnYTyZtb-40" value="Go somewhere" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#0085FC;strokeColor=none;fontColor=#ffffff;resizeWidth=1;fontSize=14;" vertex="1" parent="dVHdGWv33wKlvnYTyZtb-38">
-          <mxGeometry y="1" width="120" height="40" relative="1" as="geometry">
-            <mxPoint x="20" y="-60" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dVHdGWv33wKlvnYTyZtb-41" value="Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=bottom;align=left;spacing=20;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="375" y="-960" width="250" height="260" as="geometry" />
+          <mxGeometry x="375" y="-960" width="255" height="350" as="geometry" />
         </mxCell>
         <mxCell id="dVHdGWv33wKlvnYTyZtb-42" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="dVHdGWv33wKlvnYTyZtb-41">
-          <mxGeometry width="250" height="180" relative="1" as="geometry" />
+          <mxGeometry width="255" height="180" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dVHdGWv33wKlvnYTyZtb-43" value="Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=bottom;align=left;spacing=20;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="640" y="-960" width="250" height="260" as="geometry" />
+          <mxGeometry x="640" y="-960" width="250" height="350" as="geometry" />
         </mxCell>
         <mxCell id="dVHdGWv33wKlvnYTyZtb-44" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="dVHdGWv33wKlvnYTyZtb-43">
           <mxGeometry width="250" height="180" relative="1" as="geometry" />
